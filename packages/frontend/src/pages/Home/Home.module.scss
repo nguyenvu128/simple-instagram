@@ -1,0 +1,12 @@
+@import "../../assets/style/variable";
+
+.content {
+  position: relative;
+  margin-top: 54px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: $content_max_width;
+  padding-top: 30px;
+  display: flex;
+}
